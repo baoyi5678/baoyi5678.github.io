@@ -19,6 +19,8 @@ header {
     color: #eee;
     text-align: 0,auto;
     background-color: rgb(38, 128, 50);
+    position: relative;
+    width:200px;
   }
   
   h2 {
