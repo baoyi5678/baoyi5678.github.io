@@ -17,8 +17,8 @@ header {
     margin-bottom: 20px;
     font-size: 28px;
     color: #eee;
-    text-align: center;
-    background-color: #333;
+    text-align: 0,auto;
+    background-color: rgb(38, 128, 50);
   }
   
   h2 {
@@ -28,6 +28,7 @@ header {
   div.relative {
       position: relative;
       left: 80px;
+      right: 80px;
      
       border: 3px solid #73AD21;
     }
