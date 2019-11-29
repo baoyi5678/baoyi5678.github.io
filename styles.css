@@ -17,7 +17,7 @@ header {
     margin-bottom: 20px;
     font-size: 28px;
     color: #eee;
-    text-align: 0,auto;
+    text-align: center;
     background-color: rgb(38, 128, 50);
     position: relative;
     width:200px;
@@ -78,7 +78,7 @@ header {
   }
   h1 {
     margin-bottom: 20px;
-    font-size: 36px;
+    font-size: 30px;
     line-height: 45px;
   }
   
@@ -105,5 +105,10 @@ header {
     padding: 20px;
     text-align: center;
     background: #999;
+  }
+  #about_me_tag{
+    text-align: left;
+    color: rgb(38, 128, 50);
+    font-size: 30px;
   }
    
