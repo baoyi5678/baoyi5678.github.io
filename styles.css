@@ -72,7 +72,7 @@ header {
   
 
   .wrapper {
-    width: 600px;
+    width: 1000px;
     padding: 20px;
     margin: 0 auto;
   }
@@ -90,7 +90,7 @@ header {
   
   #relative {
     position: relative;
-    height: 1200px;
+    height: 800px;
     padding: 20px;
     margin-bottom: 20px;
     text-align: center;
